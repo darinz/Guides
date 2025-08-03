@@ -36,6 +36,7 @@
 - [`macos/`](macos/) — macOS setup, tips, terminal, and troubleshooting guides
 - [`markdown/`](markdown/) — Markdown syntax, formatting, and documentation best practices
 - [`nodejs/`](nodejs/) — Node.js, NVM, NPM, and package management
+- [`number-systems/`](number-systems/) — Number system conversions, binary, hexadecimal, octal, and decimal arithmetic
 - [`python/`](python/) — Python virtual environments and dependency management
 - [`sql/`](sql/) — SQL database fundamentals, advanced queries, and optimization techniques
 - [`wsl/`](wsl/) — Windows Subsystem for Linux setup, configuration, and usage guides
@@ -52,6 +53,7 @@
 - **macOS**: Setup, productivity tips, terminal usage, and troubleshooting for developers
 - **Markdown**: Syntax, formatting, and documentation templates for technical writing
 - **Node.js**: NVM, NPM, Yarn, pnpm, and advanced package management
+- **Number Systems**: Binary, hexadecimal, octal, and decimal conversions with practice problems and interactive tools
 - **Python**: Virtual environments, dependency management, and deployment tools
 - **SQL**: Database fundamentals, DDL/DML/DCL operations, advanced queries, and optimization
 - **WSL**: Windows Subsystem for Linux installation, configuration, and development workflows
