@@ -4,8 +4,9 @@ A comprehensive guide to working with binary, octal, and hexadecimal number syst
 
 ## Contents
 
-### Main Guide
+### Main Guides
 - **[number-systems-complete-guide.md](./number-systems-complete-guide.md)** - Complete comprehensive guide covering all concepts, methods, and practice problems
+- **[bits-bytes-computer-representation.md](./bits-bytes-computer-representation.md)** - Comprehensive guide to bits, bytes, and how computers represent all data
 
 ### Practice Materials
 - **[practice-problems.md](./practice-problems.md)** - Detailed practice problems with step-by-step solutions
@@ -17,6 +18,9 @@ A comprehensive guide to working with binary, octal, and hexadecimal number syst
 - **Binary Numbers** (Base-2): Understanding 0s and 1s
 - **Octal Numbers** (Base-8): Working with digits 0-7
 - **Hexadecimal Numbers** (Base-16): Using digits 0-9 and letters A-F
+- **Bits and Bytes**: Fundamental data units in computing
+- **Character Encoding**: ASCII, Unicode, and UTF-8
+- **Memory Organization**: How data is stored and accessed
 
 ### Conversion Methods
 - Decimal ↔ Binary conversions
@@ -28,6 +32,8 @@ A comprehensive guide to working with binary, octal, and hexadecimal number syst
 - Binary arithmetic (addition, subtraction)
 - Two's complement for negative numbers
 - Floating-point number representations
+- Memory addressing and endianness
+- File formats and data structures
 - Real-world applications in computing
 
 ## How to Use This Guide
@@ -61,16 +67,19 @@ A comprehensive guide to working with binary, octal, and hexadecimal number syst
 - **Binary**: CPU operations, memory addressing, digital logic
 - **Hexadecimal**: Memory addresses, color codes, debugging
 - **Octal**: File permissions, some programming languages
+- **Bits/Bytes**: Character encoding, data structures, memory layout
 
 ### Programming
 - **Binary**: Bit manipulation, flags, masks
 - **Hexadecimal**: Color codes (#FF0000), memory dumps
 - **Octal**: File permissions (chmod 755)
+- **Character Encoding**: Text processing, internationalization
 
 ### Electronics & Networking
 - **Binary**: Digital circuits, logic gates
 - **Hexadecimal**: MAC addresses, IPv6 addresses
 - **Octal**: Some microcontroller applications
+- **Memory**: RAM organization, cache systems, storage devices
 
 ## Practice Strategy
 
