@@ -9,6 +9,7 @@
   <img src="https://img.shields.io/badge/FTP-FF6600?style=flat-square&logo=ftp&logoColor=white" alt="FTP" />
   <img src="https://img.shields.io/badge/SFTP-3DDC84?style=flat-square&logo=ssh&logoColor=white" alt="SFTP" />
   <img src="https://img.shields.io/badge/wget-6A5ACD?style=flat-square&logo=gnu&logoColor=white" alt="wget" />
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white" alt="PowerShell" />
   <img src="https://img.shields.io/badge/CLI-000000?style=flat-square&logo=terminal&logoColor=white" alt="CLI" />
 </p>
 
@@ -24,6 +25,7 @@
 
 - **[linux-command-line-tutorial.md](linux-command-line-tutorial.md)**: Comprehensive tutorial covering command line basics, file management, text editing, user administration, permissions, process management, and software installation.
 - **[linux-unix-commands.md](linux-unix-commands.md)**: Complete command reference covering file operations, text processing, system administration, networking, security, shell scripting, and troubleshooting.
+- **[powershell-guide.md](powershell-guide.md)**: Comprehensive guide to PowerShell covering fundamentals, cmdlets, scripting, automation, system administration, remote management, and advanced techniques for Windows, Linux, and macOS.
 - **[ftp-commands.md](ftp-commands.md)**: Comprehensive guide to FTP and SFTP commands for secure file transfers between systems.
 - **[wget-commands.md](wget-commands.md)**: Complete reference for using wget to download files from the web with advanced options and automation.
 
