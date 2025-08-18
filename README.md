@@ -19,6 +19,7 @@
   <img src="https://img.shields.io/badge/GDB-000000?style=flat-square&logo=gdb&logoColor=white" alt="GDB" />
   <img src="https://img.shields.io/badge/Make-FF6B35?style=flat-square&logo=gnu&logoColor=white" alt="Make" />
   <img src="https://img.shields.io/badge/Valgrind-FF6B35?style=flat-square&logo=valgrind&logoColor=white" alt="Valgrind" />
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white" alt="PowerShell" />
 </p>
 
 ---
@@ -44,7 +45,7 @@
 
 ## Highlights
 
-- **Command-Line**: Essential and advanced Linux/Unix commands for daily and administrative tasks
+- **Command-Line**: Essential and advanced Linux/Unix commands and PowerShell for daily and administrative tasks
 - **Dev Tools**: GCC compilation, GDB debugging, Make build automation, and Valgrind memory/performance analysis
 - **Editor**: Comprehensive guides for VS Code, Vim, and Emacs with data science workflows
 - **Git**: Comprehensive Git command reference, workflows, and troubleshooting
